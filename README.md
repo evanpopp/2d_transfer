@@ -9,7 +9,7 @@ Welcome to the repository for my custom 2d material transfer and stacking statio
 Here are some renders of the custom PCB and the mechanical assemblies:
 
 ### 2D Transfer Renders
-![Full View](Media/Assembly.png)
+![Full View](Media/Assembly.PNG)
 ![Close Up View](Media/Close_up.png)
 
 ### 2D Transfer Pic
