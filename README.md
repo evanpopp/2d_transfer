@@ -1,12 +1,12 @@
 # Custom 2D Transfer Station
 
-Welcome to the repository for my custom 2d material transfer and stacking station. This design uses a combination of existing components found in the lab, and custom components used to turn it into a transfer station. I also included a plastic enclosure for a heater that normally had exposed wall AC. This design was created to be an affordable alternative to more professional systems. 
+Welcome to the repository for my custom 2D material transfer and stacking station. This design uses a combination of existing components found in the lab and custom components for a 2D material transfer station. I also includes file for a plastic enclosure for a heater that normally had exposed wall AC. This design was created to be an affordable alternative to more professional systems. 
 
 ---
 
 ## 📸 Project Gallery
 
-Here are some renders of the custom PCB and the mechanical assemblies:
+Here are some renders of the transfer station:
 
 ### 2D Transfer Renders
 ![Full View](Media/Assembly.PNG)
@@ -26,22 +26,22 @@ Here are some renders of the custom PCB and the mechanical assemblies:
 
 ## ✨ Features
 
-* **High degree of freedom** On the base, you have diagonal x-y movement as well as rotation. On the slide arm, you have x, y, z movements.
+* **High degree of freedom:** On the base, you have diagonal x-y movement as well as rotation. On the slide arm, you have x, y, z movements.
 
-* **Vibration isolation** On multiple levels, you have the ability to use vibration dampers for clean life off and stacking of 2D materials.
+* **Vibration isolation:** On multiple levels, you have the ability to use vibration dampers for clean lift off and stacking of 2D materials.
 
-* **Cost effective** By using some inexpenisve custom parts, you can build a 2D transfer station with equipment you may already have in the lab. For a nitrogen enviroment, you can enclose the station in a glove bag. 
+* **Cost-effective:** By using some inexpensive custom parts, you can build a 2D transfer station with equipment you may already have in the lab. For a nitrogen environment, you can enclose the station in an affordable glove bag. 
 
-* **Easy slide mounting and changing** With the non-outgassing plastic clamps, you can easily place and switchout glass slides containing the PDMS and PPC needed to pick up atomically thin materials. 
+* **Easy slide mounting and changing:** With the non-outgassing plastic clamps, you can easily place and switch out glass slides containing the PDMS and PPC needed to pick up atomically thin materials. 
 
 ---
 
 ## 📂 Repository Structure
 
-* `/3D_Print` - Contains the print files (stl) needed to 3D print the heater enclosure for safe and cheap operation.
+* `/3D_Print` - Contains the print files (STL) needed to 3D print the heater enclosure for safe and cheap operation.
 * `/Metal` - Contains the CAD files (STEP) and drawings needed to machine the custom metal components.
 * `/Plastic` - Contains the CAD files (STEP) and drawings needed to machine and 3D print the custom plastic components.
-* `/Media` - Contains various images and videos of the laser assembly.
+* `/Media` - Contains various images and videos of the transfer station assembly.
 
 ---
 
